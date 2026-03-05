@@ -1,2 +1,2 @@
 # comp4513-blog-site
-A blogging site sing ASP.NET Core Razor Pages
+A blogging site using ASP.NET Core Razor Pages
